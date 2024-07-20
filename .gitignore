@@ -1,0 +1,10 @@
+node_modules
+scss
+dist
+css
+fonts
+images
+js
+
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
